@@ -1,0 +1,17 @@
+#user {
+  font-family: arial;
+  text-align: center;
+  margin: 100px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#welcome {
+  font-weight: bold;
+  text-align: center;
+  font-family: arial;
+}
+
+#myBox {
+  user-select: none;
+}
